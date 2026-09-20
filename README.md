@@ -1,6 +1,12 @@
 # Follow-up on BOSS Codes for LPD Acoustic Communications
 The original version of this README is in the repository as a PDF. This one is shorter due to equation rendering issues.
 
+Anthony Jeongseok Lee
+
+Special thanks to the collaborators on the original capstone project:
+- Tilley Geumra Shin (https://www.linkedin.com/in/tilley-geumra-s-748a53195/)
+- Seungmin Cha (https://www.linkedin.com/in/%EC%8A%B9%EB%AF%BC-%EC%B0%A8-9a63143b2/)
+
 This repository consists of the code used for my original capstone project about block orthogonal sparse superposition (BOSS) codes and my independent follow-up after the project was over.
 
 BOSS codes are generated using a dictionary matrix whose column vectors are linearly combined. In the original capstone project which I did with two teammates, we created a dictionary containing two sub-matrices that were constructed from wave and wind audio frames, so that the column vectors of each matrix could serve as components of codewords AND waveforms of ambient sound for LPD communications.
